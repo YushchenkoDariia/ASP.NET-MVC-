@@ -1,0 +1,30 @@
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\appsettings.json
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.staticwebassets.runtime.json
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.exe
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.deps.json
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.runtimeconfig.json
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.dll
+D:\ASP.NET MVC\ASP.NET MVC\bin\Debug\net6.0\ASP.NET MVC.pdb
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.AssemblyInfoInputs.cache
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.AssemblyInfo.cs
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.RazorAssemblyInfo.cache
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.RazorAssemblyInfo.cs
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET MVC.props
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET MVC.props
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET MVC.props
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\scopedcss\bundle\ASP.NET MVC.styles.css
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET MVC.bundle.scp.css
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.dll
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\refint\ASP.NET MVC.dll
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.pdb
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ASP.NET MVC.genruntimeconfig.cache
+D:\ASP.NET MVC\ASP.NET MVC\obj\Debug\net6.0\ref\ASP.NET MVC.dll
